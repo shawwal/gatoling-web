@@ -2,16 +2,16 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>Gatoling</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/shawwal/gatoling-web',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://discord.gg/ReGJ9Dgp',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/shawwal/gatoling-web',
   footer: {
-    text: 'Nextra Docs Template',
+    text: '©2023 Gatoling - All rights reserved.',
   },
 }
 

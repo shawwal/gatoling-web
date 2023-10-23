@@ -1,0 +1,17 @@
+.stores {
+  /* border: 1px solid red; */
+  /* justify-content: space-between; */
+  display: flex;
+  flex-direction: row;
+  padding-top: 20px;
+}
+
+.logo {
+  width: 200px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.footerNotes {
+  padding-top: 50px;
+}

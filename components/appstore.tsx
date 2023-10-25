@@ -20,9 +20,9 @@ function AppStore() {
           <img src="/images/google_play.png" className={styles.logo} />
         </a>
       </div>
-      <div className={styles.footerNotes}>
+      {/* <div className={styles.footerNotes}>
         <small>*Android app still under review at the moment.</small>
-      </div>
+      </div> */}
     </div>
   )
 }

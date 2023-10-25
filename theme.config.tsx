@@ -19,7 +19,7 @@ const config: DocsThemeConfig = {
     link: 'https://github.com/shawwal/gatoling-web',
   },
   chat: {
-    link: 'https://discord.gg/ReGJ9Dgp',
+    link: 'https://discord.gg/pG8GKcbc',
   },
   docsRepositoryBase: 'https://github.com/shawwal/gatoling-web',
   footer: {
